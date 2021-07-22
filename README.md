@@ -11,7 +11,7 @@ It uses the [Gastby Advanced Starter](https://www.gatsbyjs.com/starters/Vagr9K/g
 ## 🚀 Quick start
 
 1. Install Packages
-    1. npm install
+    1. `npm install`
 
 1. Start App
     1. `gastby develop`
