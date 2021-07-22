@@ -4,7 +4,11 @@
 
 ## Description
 
-This web app is a simple contact form created with Gastby and Theme UI.  It could be deployed on a cloud server to send and store messages from users. One potential option I'd try is AWS Amplify.
+This web app is a simple contact form created with Gastby and Theme UI.  It validates the inputs. Email validation with a Material UI text input is executed with regex.
+
+## Potential Next Steps
+
+It could be deployed on a cloud server to send and store messages from users. One potential option I'd try is AWS Amplify.
 
 It uses the [Gastby Advanced Starter](https://www.gatsbyjs.com/starters/Vagr9K/gatsby-advanced-starter)
 
